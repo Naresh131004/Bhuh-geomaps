@@ -5,13 +5,13 @@ st.set_page_config(layout="wide")
 
 # Customize the sidebar
 markdown = """
-A Streamlit map template
-<https://github.com/opengeos/streamlit-map-template>
+Website
+<https://www.bhuhpramaan.com>
 """
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
-logo = "https://i.imgur.com/UbOXYAU.png"
+logo = "https://i.imgur.com/MWpI4OI.jpeg"
 st.sidebar.image(logo)
 
 # Customize page title
