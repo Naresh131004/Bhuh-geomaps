@@ -15,11 +15,6 @@ st.sidebar.image(logo)
 
 
 st.title("Searching Basemaps")
-st.markdown(
-    """
-This app is a demonstration of searching and loading basemaps from [xyzservices](https://github.com/geopandas/xyzservices) and [Quick Map Services (QMS)](https://github.com/nextgis/quickmapservices). Selecting from 1000+ basemaps with a few clicks.
-"""
-)
 
 with st.expander("See demo"):
     st.image("https://i.imgur.com/0SkUhZh.gif")
@@ -43,7 +38,7 @@ with row1_col2:
         tiles = empty.multiselect("Select XYZ tiles to add to the map:", options)
 
     with row1_col1:
-        m = leafmap.Map()
+        m = leafmap.Map(center=[12.971599,77.594566], zoom=9.8)
 
         if tiles is not None:
             for tile in tiles:

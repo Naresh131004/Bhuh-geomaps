@@ -25,7 +25,7 @@ with col2:
 
 with col1:
 
-    m = leafmap.Map(
+    m = leafmap.Map(center=[12.971599,77.594566], zoom=9.8,
         locate_control=True, latlon_control=True, draw_export=True, minimap_control=True
     )
     m.add_basemap(basemap)
