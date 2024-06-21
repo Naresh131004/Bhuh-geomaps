@@ -38,3 +38,12 @@ st.markdown(markdown)
 m = leafmap.Map(minimap_control=True)
 m.add_basemap("OpenTopoMap")
 m.to_streamlit(height=500)
+
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)

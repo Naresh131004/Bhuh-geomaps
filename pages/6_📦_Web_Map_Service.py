@@ -77,3 +77,12 @@ with row1_col2:
             m.add_legend(legend_dict=legend_dict)
 
         m.to_streamlit(width, height)
+
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)

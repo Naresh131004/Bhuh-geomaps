@@ -28,3 +28,12 @@ with st.expander("See source code"):
             radius=20,
         )
 m.to_streamlit(height=700)
+
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
