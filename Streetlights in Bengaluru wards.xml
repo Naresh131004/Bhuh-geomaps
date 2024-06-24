@@ -1,0 +1,201 @@
+<data>
+<row _id="1"><Ward_No>1</Ward_No><Ward Name>Kempegowda Ward</Ward Name><Street lights#>2379</Street lights#></row>
+<row _id="2"><Ward_No>2</Ward_No><Ward Name>Chowdeswari Ward</Ward Name><Street lights#>2508</Street lights#></row>
+<row _id="3"><Ward_No>3</Ward_No><Ward Name>Atturu</Ward Name><Street lights#>4227</Street lights#></row>
+<row _id="4"><Ward_No>4</Ward_No><Ward Name>Yelahanka Satellite Town</Ward Name><Street lights#>3626</Street lights#></row>
+<row _id="5"><Ward_No>5</Ward_No><Ward Name>Jakkuru</Ward Name><Street lights#>4351</Street lights#></row>
+<row _id="6"><Ward_No>6</Ward_No><Ward Name>Thanisandra</Ward Name><Street lights#>5022</Street lights#></row>
+<row _id="7"><Ward_No>7</Ward_No><Ward Name>Byatarayanapura</Ward Name><Street lights#>2620</Street lights#></row>
+<row _id="8"><Ward_No>8</Ward_No><Ward Name>Kodigehalli</Ward Name><Street lights#>2365</Street lights#></row>
+<row _id="9"><Ward_No>9</Ward_No><Ward Name>Vidyaranyapura</Ward Name><Street lights#>2903</Street lights#></row>
+<row _id="10"><Ward_No>10</Ward_No><Ward Name>Dodda Bommasandra</Ward Name><Street lights#>1735</Street lights#></row>
+<row _id="11"><Ward_No>11</Ward_No><Ward Name>Kuvempu Nagar</Ward Name><Street lights#>2039</Street lights#></row>
+<row _id="12"><Ward_No>12</Ward_No><Ward Name>Shettihalli</Ward Name><Street lights#>3193</Street lights#></row>
+<row _id="13"><Ward_No>13</Ward_No><Ward Name>Mallasandra</Ward Name><Street lights#>1613</Street lights#></row>
+<row _id="14"><Ward_No>14</Ward_No><Ward Name>Bagalakunte</Ward Name><Street lights#>3469</Street lights#></row>
+<row _id="15"><Ward_No>15</Ward_No><Ward Name>T Dasarahalli</Ward Name><Street lights#>1364</Street lights#></row>
+<row _id="16"><Ward_No>16</Ward_No><Ward Name>Jalahalli</Ward Name><Street lights#>1899</Street lights#></row>
+<row _id="17"><Ward_No>17</Ward_No><Ward Name>J P Park</Ward Name><Street lights#>1878</Street lights#></row>
+<row _id="18"><Ward_No>18</Ward_No><Ward Name>Radhakrishna Temple Ward</Ward Name><Street lights#>2217</Street lights#></row>
+<row _id="19"><Ward_No>19</Ward_No><Ward Name>Sanjaya Nagar</Ward Name><Street lights#>1720</Street lights#></row>
+<row _id="20"><Ward_No>20</Ward_No><Ward Name>Ganga Nagar</Ward Name><Street lights#>1647</Street lights#></row>
+<row _id="21"><Ward_No>21</Ward_No><Ward Name>Hebbala</Ward Name><Street lights#>1489</Street lights#></row>
+<row _id="22"><Ward_No>22</Ward_No><Ward Name>Vishwanath Nagenahalli</Ward Name><Street lights#>2886</Street lights#></row>
+<row _id="23"><Ward_No>23</Ward_No><Ward Name>Nagavara</Ward Name><Street lights#>768</Street lights#></row>
+<row _id="24"><Ward_No>24</Ward_No><Ward Name>HBR Layout</Ward Name><Street lights#>1043</Street lights#></row>
+<row _id="25"><Ward_No>25</Ward_No><Ward Name>Horamavu</Ward Name><Street lights#>4004</Street lights#></row>
+<row _id="26"><Ward_No>26</Ward_No><Ward Name>Ramamurthy Nagar</Ward Name><Street lights#>3042</Street lights#></row>
+<row _id="27"><Ward_No>27</Ward_No><Ward Name>Banasavadi</Ward Name><Street lights#>2727</Street lights#></row>
+<row _id="28"><Ward_No>28</Ward_No><Ward Name>Kammanahalli</Ward Name><Street lights#>1427</Street lights#></row>
+<row _id="29"><Ward_No>29</Ward_No><Ward Name>Kacharkanahalli</Ward Name><Street lights#>1671</Street lights#></row>
+<row _id="30"><Ward_No>30</Ward_No><Ward Name>Kadugondanahalli</Ward Name><Street lights#>1561</Street lights#></row>
+<row _id="31"><Ward_No>31</Ward_No><Ward Name>Kushal Nagar</Ward Name><Street lights#>993</Street lights#></row>
+<row _id="32"><Ward_No>32</Ward_No><Ward Name>Kaval Bairasandra</Ward Name><Street lights#>1881</Street lights#></row>
+<row _id="33"><Ward_No>33</Ward_No><Ward Name>Manorayana Palya</Ward Name><Street lights#>1804</Street lights#></row>
+<row _id="34"><Ward_No>34</Ward_No><Ward Name>Gangenahalli</Ward Name><Street lights#>1889</Street lights#></row>
+<row _id="35"><Ward_No>35</Ward_No><Ward Name>Aramane Nagara</Ward Name><Street lights#>2670</Street lights#></row>
+<row _id="36"><Ward_No>36</Ward_No><Ward Name>Mattikere</Ward Name><Street lights#>2484</Street lights#></row>
+<row _id="37"><Ward_No>37</Ward_No><Ward Name>Yeshwanthpura</Ward Name><Street lights#>990</Street lights#></row>
+<row _id="38"><Ward_No>38</Ward_No><Ward Name>HMT Ward</Ward Name><Street lights#>1845</Street lights#></row>
+<row _id="39"><Ward_No>39</Ward_No><Ward Name>Chokkasandra</Ward Name><Street lights#>2088</Street lights#></row>
+<row _id="40"><Ward_No>40</Ward_No><Ward Name>Dodda Bidarakallu</Ward Name><Street lights#>3589</Street lights#></row>
+<row _id="41"><Ward_No>41</Ward_No><Ward Name>Peenya Industrial Area</Ward Name><Street lights#>2518</Street lights#></row>
+<row _id="42"><Ward_No>42</Ward_No><Ward Name>Lakshmi Devi Nagar</Ward Name><Street lights#>2354</Street lights#></row>
+<row _id="43"><Ward_No>43</Ward_No><Ward Name>Nandini Layout</Ward Name><Street lights#>2864</Street lights#></row>
+<row _id="44"><Ward_No>44</Ward_No><Ward Name>Marappana Palya</Ward Name><Street lights#>1303</Street lights#></row>
+<row _id="45"><Ward_No>45</Ward_No><Ward Name>Malleshwaram</Ward Name><Street lights#>1673</Street lights#></row>
+<row _id="46"><Ward_No>46</Ward_No><Ward Name>Jayachamarajendra Nagar</Ward Name><Street lights#>2280</Street lights#></row>
+<row _id="47"><Ward_No>47</Ward_No><Ward Name>Devara Jeevanahalli</Ward Name><Street lights#>1116</Street lights#></row>
+<row _id="48"><Ward_No>48</Ward_No><Ward Name>Muneshwara Nagar</Ward Name><Street lights#>666</Street lights#></row>
+<row _id="49"><Ward_No>49</Ward_No><Ward Name>Lingarajapura</Ward Name><Street lights#>1312</Street lights#></row>
+<row _id="50"><Ward_No>50</Ward_No><Ward Name>Benniganahalli</Ward Name><Street lights#>2103</Street lights#></row>
+<row _id="51"><Ward_No>51</Ward_No><Ward Name>Vijnanapura</Ward Name><Street lights#>1847</Street lights#></row>
+<row _id="52"><Ward_No>52</Ward_No><Ward Name>KR Puram</Ward Name><Street lights#>2453</Street lights#></row>
+<row _id="53"><Ward_No>53</Ward_No><Ward Name>Basavanapura</Ward Name><Street lights#>2213</Street lights#></row>
+<row _id="54"><Ward_No>54</Ward_No><Ward Name>Hudi</Ward Name><Street lights#>3478</Street lights#></row>
+<row _id="55"><Ward_No>55</Ward_No><Ward Name>Devasandra</Ward Name><Street lights#>890</Street lights#></row>
+<row _id="56"><Ward_No>56</Ward_No><Ward Name>A Narayanapura</Ward Name><Street lights#>2994</Street lights#></row>
+<row _id="57"><Ward_No>57</Ward_No><Ward Name>C.V. Raman Nagar</Ward Name><Street lights#>1639</Street lights#></row>
+<row _id="58"><Ward_No>58</Ward_No><Ward Name>New Tippa Sandra</Ward Name><Street lights#>2127</Street lights#></row>
+<row _id="59"><Ward_No>59</Ward_No><Ward Name>Maruthi Seva Nagar</Ward Name><Street lights#>1747</Street lights#></row>
+<row _id="60"><Ward_No>60</Ward_No><Ward Name>Sagayara Puram</Ward Name><Street lights#>1017</Street lights#></row>
+<row _id="61"><Ward_No>61</Ward_No><Ward Name>SK Garden</Ward Name><Street lights#>803</Street lights#></row>
+<row _id="62"><Ward_No>62</Ward_No><Ward Name>Ramaswamy Palya</Ward Name><Street lights#>1418</Street lights#></row>
+<row _id="63"><Ward_No>63</Ward_No><Ward Name>Jaya Mahal</Ward Name><Street lights#>2728</Street lights#></row>
+<row _id="64"><Ward_No>64</Ward_No><Ward Name>Raj Mahal Guttahalli</Ward Name><Street lights#>1951</Street lights#></row>
+<row _id="65"><Ward_No>65</Ward_No><Ward Name>Kadu Malleshwar Ward</Ward Name><Street lights#>1278</Street lights#></row>
+<row _id="66"><Ward_No>66</Ward_No><Ward Name>Subramanya Nagar</Ward Name><Street lights#>1983</Street lights#></row>
+<row _id="67"><Ward_No>67</Ward_No><Ward Name>Nagapura</Ward Name><Street lights#>2535</Street lights#></row>
+<row _id="68"><Ward_No>68</Ward_No><Ward Name>Mahalakshmipuram</Ward Name><Street lights#>2380</Street lights#></row>
+<row _id="69"><Ward_No>69</Ward_No><Ward Name>Laggere</Ward Name><Street lights#>3579</Street lights#></row>
+<row _id="70"><Ward_No>70</Ward_No><Ward Name>Rajagopal Nagar</Ward Name><Street lights#>2210</Street lights#></row>
+<row _id="71"><Ward_No>71</Ward_No><Ward Name>Hegganahalli</Ward Name><Street lights#>1895</Street lights#></row>
+<row _id="72"><Ward_No>72</Ward_No><Ward Name>Herohalli</Ward Name><Street lights#>3561</Street lights#></row>
+<row _id="73"><Ward_No>73</Ward_No><Ward Name>Kottegepalya</Ward Name><Street lights#>5009</Street lights#></row>
+<row _id="74"><Ward_No>74</Ward_No><Ward Name>Shakthi Ganapathi Nagar</Ward Name><Street lights#>1174</Street lights#></row>
+<row _id="75"><Ward_No>75</Ward_No><Ward Name>Shankar Matt</Ward Name><Street lights#>2119</Street lights#></row>
+<row _id="76"><Ward_No>76</Ward_No><Ward Name>Gayithri Nagar</Ward Name><Street lights#>1457</Street lights#></row>
+<row _id="77"><Ward_No>77</Ward_No><Ward Name>Dattatreya Temple Ward</Ward Name><Street lights#>1854</Street lights#></row>
+<row _id="78"><Ward_No>78</Ward_No><Ward Name>Pulakeshi Nagar</Ward Name><Street lights#>2278</Street lights#></row>
+<row _id="79"><Ward_No>79</Ward_No><Ward Name>Sarvagna Nagar</Ward Name><Street lights#>1008</Street lights#></row>
+<row _id="80"><Ward_No>80</Ward_No><Ward Name>Hoysala Nagar</Ward Name><Street lights#>2955</Street lights#></row>
+<row _id="81"><Ward_No>81</Ward_No><Ward Name>Vijnana Nagar</Ward Name><Street lights#>2261</Street lights#></row>
+<row _id="82"><Ward_No>82</Ward_No><Ward Name>Garudachar palya</Ward Name><Street lights#>3663</Street lights#></row>
+<row _id="83"><Ward_No>83</Ward_No><Ward Name>Kadugodi</Ward Name><Street lights#>3377</Street lights#></row>
+<row _id="84"><Ward_No>84</Ward_No><Ward Name>Hagadur</Ward Name><Street lights#>2845</Street lights#></row>
+<row _id="85"><Ward_No>85</Ward_No><Ward Name>Dodda Nekkundi</Ward Name><Street lights#>3997</Street lights#></row>
+<row _id="86"><Ward_No>86</Ward_No><Ward Name>Marathahalli</Ward Name><Street lights#>1461</Street lights#></row>
+<row _id="87"><Ward_No>87</Ward_No><Ward Name>HAL Airport</Ward Name><Street lights#>2455</Street lights#></row>
+<row _id="88"><Ward_No>88</Ward_No><Ward Name>Jeevanbhima Nagar</Ward Name><Street lights#>1618</Street lights#></row>
+<row _id="89"><Ward_No>89</Ward_No><Ward Name>Jogupalya</Ward Name><Street lights#>2501</Street lights#></row>
+<row _id="90"><Ward_No>90</Ward_No><Ward Name>Halsoor</Ward Name><Street lights#>2576</Street lights#></row>
+<row _id="91"><Ward_No>91</Ward_No><Ward Name>Bharathi Nagar</Ward Name><Street lights#>1659</Street lights#></row>
+<row _id="92"><Ward_No>92</Ward_No><Ward Name>Shivaji Nagar</Ward Name><Street lights#>1631</Street lights#></row>
+<row _id="93"><Ward_No>93</Ward_No><Ward Name>Vasanth Nagar</Ward Name><Street lights#>1595</Street lights#></row>
+<row _id="94"><Ward_No>94</Ward_No><Ward Name>Gandhi Nagar</Ward Name><Street lights#>1909</Street lights#></row>
+<row _id="95"><Ward_No>95</Ward_No><Ward Name>Subhash Nagar</Ward Name><Street lights#>1191</Street lights#></row>
+<row _id="96"><Ward_No>96</Ward_No><Ward Name>Okalipuram</Ward Name><Street lights#>1433</Street lights#></row>
+<row _id="97"><Ward_No>97</Ward_No><Ward Name>Dayananda Nagar</Ward Name><Street lights#>1162</Street lights#></row>
+<row _id="98"><Ward_No>98</Ward_No><Ward Name>Prakash Nagar</Ward Name><Street lights#>904</Street lights#></row>
+<row _id="99"><Ward_No>99</Ward_No><Ward Name>Rajaji Nagar</Ward Name><Street lights#>1367</Street lights#></row>
+<row _id="100"><Ward_No>100</Ward_No><Ward Name>Basaveshwara Nagar</Ward Name><Street lights#>1155</Street lights#></row>
+<row _id="101"><Ward_No>101</Ward_No><Ward Name>Kamakshipalya</Ward Name><Street lights#>1561</Street lights#></row>
+<row _id="102"><Ward_No>102</Ward_No><Ward Name>Vrisahbhavathi Nagar</Ward Name><Street lights#>1163</Street lights#></row>
+<row _id="103"><Ward_No>103</Ward_No><Ward Name>Kaveripura</Ward Name><Street lights#>1971</Street lights#></row>
+<row _id="104"><Ward_No>104</Ward_No><Ward Name>Govindaraja Nagar</Ward Name><Street lights#>1067</Street lights#></row>
+<row _id="105"><Ward_No>105</Ward_No><Ward Name>Agrahara Dasarahalli</Ward Name><Street lights#>1381</Street lights#></row>
+<row _id="106"><Ward_No>106</Ward_No><Ward Name>Dr.Raj Kumar Ward</Ward Name><Street lights#>1475</Street lights#></row>
+<row _id="107"><Ward_No>107</Ward_No><Ward Name>Shiva Nagar</Ward Name><Street lights#>1035</Street lights#></row>
+<row _id="108"><Ward_No>108</Ward_No><Ward Name>Sri Rama Mandir Ward</Ward Name><Street lights#>2032</Street lights#></row>
+<row _id="109"><Ward_No>109</Ward_No><Ward Name>Chickpete</Ward Name><Street lights#>1030</Street lights#></row>
+<row _id="110"><Ward_No>110</Ward_No><Ward Name>Sampangiram Nagar</Ward Name><Street lights#>2018</Street lights#></row>
+<row _id="111"><Ward_No>111</Ward_No><Ward Name>Shantala Nagar</Ward Name><Street lights#>1547</Street lights#></row>
+<row _id="112"><Ward_No>112</Ward_No><Ward Name>Domlur</Ward Name><Street lights#>1971</Street lights#></row>
+<row _id="113"><Ward_No>113</Ward_No><Ward Name>Konena Agrahara</Ward Name><Street lights#>2373</Street lights#></row>
+<row _id="114"><Ward_No>114</Ward_No><Ward Name>Agaram</Ward Name><Street lights#>1109</Street lights#></row>
+<row _id="115"><Ward_No>115</Ward_No><Ward Name>Vannar Pet</Ward Name><Street lights#>962</Street lights#></row>
+<row _id="116"><Ward_No>116</Ward_No><Ward Name>Nilasandra</Ward Name><Street lights#>987</Street lights#></row>
+<row _id="117"><Ward_No>117</Ward_No><Ward Name>Shanthi Nagar</Ward Name><Street lights#>1137</Street lights#></row>
+<row _id="118"><Ward_No>118</Ward_No><Ward Name>Sudham Nagar</Ward Name><Street lights#>1435</Street lights#></row>
+<row _id="119"><Ward_No>119</Ward_No><Ward Name>Dharmaraya Swamy Temple</Ward Name><Street lights#>1731</Street lights#></row>
+<row _id="120"><Ward_No>120</Ward_No><Ward Name>Cottonpete</Ward Name><Street lights#>972</Street lights#></row>
+<row _id="121"><Ward_No>121</Ward_No><Ward Name>Binni Pete</Ward Name><Street lights#>698</Street lights#></row>
+<row _id="122"><Ward_No>122</Ward_No><Ward Name>Kempapura Agrahara</Ward Name><Street lights#>637</Street lights#></row>
+<row _id="123"><Ward_No>123</Ward_No><Ward Name>Vijaya Nagar</Ward Name><Street lights#>1636</Street lights#></row>
+<row _id="124"><Ward_No>124</Ward_No><Ward Name>Hosahalli</Ward Name><Street lights#>1328</Street lights#></row>
+<row _id="125"><Ward_No>125</Ward_No><Ward Name>Marenahalli</Ward Name><Street lights#>660</Street lights#></row>
+<row _id="126"><Ward_No>126</Ward_No><Ward Name>Maruthi Mandir Ward</Ward Name><Street lights#>1850</Street lights#></row>
+<row _id="127"><Ward_No>127</Ward_No><Ward Name>Mudalapalya</Ward Name><Street lights#>1989</Street lights#></row>
+<row _id="128"><Ward_No>128</Ward_No><Ward Name>Nagarabhavi</Ward Name><Street lights#>2613</Street lights#></row>
+<row _id="129"><Ward_No>129</Ward_No><Ward Name>Jnana Bharathi Ward</Ward Name><Street lights#>5476</Street lights#></row>
+<row _id="130"><Ward_No>130</Ward_No><Ward Name>Ullalu</Ward Name><Street lights#>4874</Street lights#></row>
+<row _id="131"><Ward_No>131</Ward_No><Ward Name>Nayandahalli</Ward Name><Street lights#>1573</Street lights#></row>
+<row _id="132"><Ward_No>132</Ward_No><Ward Name>Attiguppe</Ward Name><Street lights#>2327</Street lights#></row>
+<row _id="133"><Ward_No>133</Ward_No><Ward Name>Hampi Nagar</Ward Name><Street lights#>1581</Street lights#></row>
+<row _id="134"><Ward_No>134</Ward_No><Ward Name>Bapuji Nagar</Ward Name><Street lights#>997</Street lights#></row>
+<row _id="135"><Ward_No>135</Ward_No><Ward Name>Padarayanapura</Ward Name><Street lights#>865</Street lights#></row>
+<row _id="136"><Ward_No>136</Ward_No><Ward Name>Jagajivanaram Nagar</Ward Name><Street lights#>950</Street lights#></row>
+<row _id="137"><Ward_No>137</Ward_No><Ward Name>Rayapuram</Ward Name><Street lights#>952</Street lights#></row>
+<row _id="138"><Ward_No>138</Ward_No><Ward Name>Chelavadi Palya</Ward Name><Street lights#>656</Street lights#></row>
+<row _id="139"><Ward_No>139</Ward_No><Ward Name>KR Market</Ward Name><Street lights#>1098</Street lights#></row>
+<row _id="140"><Ward_No>140</Ward_No><Ward Name>Chamraja Pet</Ward Name><Street lights#>2137</Street lights#></row>
+<row _id="141"><Ward_No>141</Ward_No><Ward Name>Azad Nagar</Ward Name><Street lights#>1284</Street lights#></row>
+<row _id="142"><Ward_No>142</Ward_No><Ward Name>Sunkenahalli</Ward Name><Street lights#>1621</Street lights#></row>
+<row _id="143"><Ward_No>143</Ward_No><Ward Name>Vishveshwara Puram</Ward Name><Street lights#>1563</Street lights#></row>
+<row _id="144"><Ward_No>144</Ward_No><Ward Name>Siddapura</Ward Name><Street lights#>1225</Street lights#></row>
+<row _id="145"><Ward_No>145</Ward_No><Ward Name>Hombegowda Nagar</Ward Name><Street lights#>1820</Street lights#></row>
+<row _id="146"><Ward_No>146</Ward_No><Ward Name>Lakkasandra</Ward Name><Street lights#>1150</Street lights#></row>
+<row _id="147"><Ward_No>147</Ward_No><Ward Name>Adugodi</Ward Name><Street lights#>1645</Street lights#></row>
+<row _id="148"><Ward_No>148</Ward_No><Ward Name>Ejipura</Ward Name><Street lights#>1555</Street lights#></row>
+<row _id="149"><Ward_No>149</Ward_No><Ward Name>Varthur</Ward Name><Street lights#>2952</Street lights#></row>
+<row _id="150"><Ward_No>150</Ward_No><Ward Name>Bellanduru</Ward Name><Street lights#>4984</Street lights#></row>
+<row _id="151"><Ward_No>151</Ward_No><Ward Name>Koramangala</Ward Name><Street lights#>2447</Street lights#></row>
+<row _id="152"><Ward_No>152</Ward_No><Ward Name>Suddagunte Palya</Ward Name><Street lights#>1645</Street lights#></row>
+<row _id="153"><Ward_No>153</Ward_No><Ward Name>Jaya Nagar</Ward Name><Street lights#>1940</Street lights#></row>
+<row _id="154"><Ward_No>154</Ward_No><Ward Name>Basavanagudi</Ward Name><Street lights#>2099</Street lights#></row>
+<row _id="155"><Ward_No>155</Ward_No><Ward Name>Hanumanth Nagar</Ward Name><Street lights#>1571</Street lights#></row>
+<row _id="156"><Ward_No>156</Ward_No><Ward Name>Sri Nagar</Ward Name><Street lights#>1302</Street lights#></row>
+<row _id="157"><Ward_No>157</Ward_No><Ward Name>Gali Anjenaya Temple Ward</Ward Name><Street lights#>1225</Street lights#></row>
+<row _id="158"><Ward_No>158</Ward_No><Ward Name>Deepanjali Nagar</Ward Name><Street lights#>1819</Street lights#></row>
+<row _id="159"><Ward_No>159</Ward_No><Ward Name>Kengeri</Ward Name><Street lights#>4712</Street lights#></row>
+<row _id="160"><Ward_No>160</Ward_No><Ward Name>Raja Rajeshawari Nagar</Ward Name><Street lights#>5870</Street lights#></row>
+<row _id="161"><Ward_No>161</Ward_No><Ward Name>Hosakerehalli</Ward Name><Street lights#>1906</Street lights#></row>
+<row _id="162"><Ward_No>162</Ward_No><Ward Name>Giri Nagar</Ward Name><Street lights#>2138</Street lights#></row>
+<row _id="163"><Ward_No>163</Ward_No><Ward Name>Katriguppe</Ward Name><Street lights#>1421</Street lights#></row>
+<row _id="164"><Ward_No>164</Ward_No><Ward Name>Vidya Peeta Ward</Ward Name><Street lights#>1758</Street lights#></row>
+<row _id="165"><Ward_No>165</Ward_No><Ward Name>Ganesh Mandir Ward</Ward Name><Street lights#>1660</Street lights#></row>
+<row _id="166"><Ward_No>166</Ward_No><Ward Name>Kari Sandra</Ward Name><Street lights#>1910</Street lights#></row>
+<row _id="167"><Ward_No>167</Ward_No><Ward Name>Yediyur</Ward Name><Street lights#>1650</Street lights#></row>
+<row _id="168"><Ward_No>168</Ward_No><Ward Name>Pattabhi Ram Nagar</Ward Name><Street lights#>1970</Street lights#></row>
+<row _id="169"><Ward_No>169</Ward_No><Ward Name>Byra Sandra</Ward Name><Street lights#>2100</Street lights#></row>
+<row _id="170"><Ward_No>170</Ward_No><Ward Name>Jaya Nagar East</Ward Name><Street lights#>1390</Street lights#></row>
+<row _id="171"><Ward_No>171</Ward_No><Ward Name>Gurappana Palya</Ward Name><Street lights#>1440</Street lights#></row>
+<row _id="172"><Ward_No>172</Ward_No><Ward Name>Madivala</Ward Name><Street lights#>1418</Street lights#></row>
+<row _id="173"><Ward_No>173</Ward_No><Ward Name>Jakka Sandra</Ward Name><Street lights#>1386</Street lights#></row>
+<row _id="174"><Ward_No>174</Ward_No><Ward Name>HSR Layout</Ward Name><Street lights#>4737</Street lights#></row>
+<row _id="175"><Ward_No>175</Ward_No><Ward Name>Bommanahalli</Ward Name><Street lights#>2243</Street lights#></row>
+<row _id="176"><Ward_No>176</Ward_No><Ward Name>BTM Layout</Ward Name><Street lights#>2450</Street lights#></row>
+<row _id="177"><Ward_No>177</Ward_No><Ward Name>JP Nagar</Ward Name><Street lights#>1660</Street lights#></row>
+<row _id="178"><Ward_No>178</Ward_No><Ward Name>Sarakki</Ward Name><Street lights#>1910</Street lights#></row>
+<row _id="179"><Ward_No>179</Ward_No><Ward Name>Shakambari Narar</Ward Name><Street lights#>1625</Street lights#></row>
+<row _id="180"><Ward_No>180</Ward_No><Ward Name>Banashankari Temple Ward</Ward Name><Street lights#>1522</Street lights#></row>
+<row _id="181"><Ward_No>181</Ward_No><Ward Name>Kumara Swamy Layout</Ward Name><Street lights#>1915</Street lights#></row>
+<row _id="182"><Ward_No>182</Ward_No><Ward Name>Padmanabha Nagar</Ward Name><Street lights#>1805</Street lights#></row>
+<row _id="183"><Ward_No>183</Ward_No><Ward Name>Chikkala Sandra</Ward Name><Street lights#>2050</Street lights#></row>
+<row _id="184"><Ward_No>184</Ward_No><Ward Name>Uttarahalli</Ward Name><Street lights#>5158</Street lights#></row>
+<row _id="185"><Ward_No>185</Ward_No><Ward Name>Yelchenahalli</Ward Name><Street lights#>3260</Street lights#></row>
+<row _id="186"><Ward_No>186</Ward_No><Ward Name>Jaraganahalli</Ward Name><Street lights#>1422</Street lights#></row>
+<row _id="187"><Ward_No>187</Ward_No><Ward Name>Puttenahalli</Ward Name><Street lights#>1587</Street lights#></row>
+<row _id="188"><Ward_No>188</Ward_No><Ward Name>Bilekhalli</Ward Name><Street lights#>3290</Street lights#></row>
+<row _id="189"><Ward_No>189</Ward_No><Ward Name>Honga Sandra</Ward Name><Street lights#>1729</Street lights#></row>
+<row _id="190"><Ward_No>190</Ward_No><Ward Name>Mangammana Palya</Ward Name><Street lights#>1487</Street lights#></row>
+<row _id="191"><Ward_No>191</Ward_No><Ward Name>Singa Sandra</Ward Name><Street lights#>3075</Street lights#></row>
+<row _id="192"><Ward_No>192</Ward_No><Ward Name>Begur</Ward Name><Street lights#>3427</Street lights#></row>
+<row _id="193"><Ward_No>193</Ward_No><Ward Name>Arakere</Ward Name><Street lights#>4163</Street lights#></row>
+<row _id="194"><Ward_No>194</Ward_No><Ward Name>Gottigere</Ward Name><Street lights#>3978</Street lights#></row>
+<row _id="195"><Ward_No>195</Ward_No><Ward Name>Konankunte</Ward Name><Street lights#>3857</Street lights#></row>
+<row _id="196"><Ward_No>196</Ward_No><Ward Name>Anjanapura</Ward Name><Street lights#>3771</Street lights#></row>
+<row _id="197"><Ward_No>197</Ward_No><Ward Name>Vasanthpura</Ward Name><Street lights#>4605</Street lights#></row>
+<row _id="198"><Ward_No>198</Ward_No><Ward Name>Hemmigepura</Ward Name><Street lights#>6802</Street lights#></row>
+<row _id="199"><Ward_No>Total</Ward_No><Ward Name /><Street lights#>4,21,113</Street lights#></row>
+</data>
